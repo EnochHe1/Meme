@@ -1,0 +1,25 @@
+html{
+    background:black;
+}
+
+img{
+    border:5px solid white;
+    width:calc(15vh + 30vw);
+    height:calc(15vh + 30vw);
+    /*allows image to scale with window size*/
+}
+
+.Meme{
+    width: 100%;
+    margin: auto;
+    margin-top: 6%;
+    color:white;
+    text-align: center;
+    font-size:calc(0.6vh + 0.75vw);
+    /*allows font to scale with window size*/
+}
+
+#Header{
+    font-family: 'Libre Baskerville', serif;
+    text-transform: uppercase;
+}
